@@ -100,8 +100,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikgit659&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Ashik's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikgit659&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ashik's Top Languages" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashikgit659&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="195" alt="Ashik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikgit659&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" alt="Ashik's Top Languages" />
 </p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ashikgit659&theme=dark&hide_border=false" alt="Ashik's Streak Stats" />
